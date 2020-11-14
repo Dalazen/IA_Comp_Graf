@@ -1,0 +1,15 @@
+positivas\1.jpg 1 14 17 161 231
+positivas\10.jpg 1 220 36 281 357
+positivas\11.jpg 1 247 192 212 211
+positivas\12.jpg 1 77 57 339 318
+positivas\13.jpg 1 26 165 386 506
+positivas\14.jpg 1 9 131 300 440
+positivas\15.jpg 1 74 6 386 343
+positivas\2.jpg 1 76 35 479 485
+positivas\3.jpg 1 5 6 242 284
+positivas\4.jpg 1 153 71 474 319
+positivas\5.jpg 1 28 57 334 367
+positivas\6.jpg 2 22 3 159 147 229 3 132 166
+positivas\7.jpg 1 77 11 508 565
+positivas\8.jpg 1 14 47 218 280
+positivas\9.jpg 1 122 10 429 571
