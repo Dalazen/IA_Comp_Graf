@@ -48,6 +48,8 @@ negativas/picture(14).jpg
 negativas/picture(140).jpg
 negativas/picture(141).jpg
 negativas/picture(142).jpg
+<<<<<<< HEAD
+=======
 negativas/picture(143).jpg
 negativas/picture(144).jpg
 negativas/picture(145).jpg
@@ -1418,3 +1420,4 @@ negativas/picture(96).jpg
 negativas/picture(97).jpg
 negativas/picture(98).jpg
 negativas/picture(99).jpg
+>>>>>>> 9b34cb6b99be14fcc5a21167ecb874d5fae3551f

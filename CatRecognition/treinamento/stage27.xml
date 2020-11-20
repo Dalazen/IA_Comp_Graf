@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <opencv_storage>
 <stage27>
+<<<<<<< HEAD
   <maxWeakCount>5</maxWeakCount>
   <stageThreshold>-9.3381011486053467e-01</stageThreshold>
   <weakClassifiers>
@@ -29,4 +30,49 @@
         0 -1 130473 -5.7572415098547935e-03</internalNodes>
       <leafValues>
         4.5255738496780396e-01 -4.8505386710166931e-01</leafValues></_></weakClassifiers></stage27>
+=======
+  <maxWeakCount>8</maxWeakCount>
+  <stageThreshold>-3.5023924708366394e-01</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 99836 -1.5244230628013611e-01</internalNodes>
+      <leafValues>
+        8.0952382087707520e-01 -1.7346939444541931e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 87869 5.3865626454353333e-02</internalNodes>
+      <leafValues>
+        -1.6910734772682190e-01 5.7771152257919312e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 55544 -5.8622227516025305e-04</internalNodes>
+      <leafValues>
+        6.1037343740463257e-01 -1.8922325968742371e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 129020 -3.6572536919265985e-03</internalNodes>
+      <leafValues>
+        5.1599991321563721e-01 -2.8491970896720886e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 57289 1.4022633433341980e-02</internalNodes>
+      <leafValues>
+        1.7319732904434204e-01 -9.5663124322891235e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 106800 -4.0472956607118249e-04</internalNodes>
+      <leafValues>
+        -6.8594229221343994e-01 1.8259792029857635e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 145058 1.0999371297657490e-03</internalNodes>
+      <leafValues>
+        -2.8604754805564880e-01 4.8673340678215027e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 136983 -3.4417405724525452e-02</internalNodes>
+      <leafValues>
+        5.6907039880752563e-01 -2.5602856278419495e-01</leafValues></_></weakClassifiers></stage27>
+>>>>>>> 8f42376a339c8dffc6242c2a5b65310ee7336543
 </opencv_storage>
