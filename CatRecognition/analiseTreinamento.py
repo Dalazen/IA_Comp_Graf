@@ -1,7 +1,8 @@
 import numpy as np
 import cv2
+
 car_cascade = cv2.CascadeClassifier("treinamento/cascade.xml")
-img = cv2.imread("analise02.jpg")
+img = cv2.imread("analise.jpg")
 height, width, c = img.shape
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 objetos = car_cascade.detectMultiScale(gray, 1.2, 5)
